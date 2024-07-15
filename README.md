@@ -21,6 +21,7 @@ The second notebook employs traditional machine learning techniques and places g
 
 - More detailed data exploration and cleaning processes.
 - Retention of features instead of merely dropping suspicious data.
+- grid searching the hyperspace of sklearn algos.
 - Enhanced model performance and predictive results.
 
 ## Conclusion
