@@ -3,9 +3,9 @@ Neural Network and ML | Kaggle Playground Series - Season 4, Episode 7
 Data source: https://www.kaggle.com/competitions/playground-series-s4e7/data
 # Kaggle Competition Submissions
 
-Welcome to my Kaggle competition repository! This repository contains two separate Jupyter notebooks, each corresponding to a submission for the competition. The goal is to analyze the dataset, apply different modeling approaches, and optimize performance for the best results.
+This repository contains two separate Jupyter notebooks, each corresponding to a submission for the competition. The goal is to analyze the dataset, apply different modeling approaches, and optimize performance for the best results.
 
-## Submission Notebooks
+# Contents
 
 ### Notebook 1: Neural Network Approach
 This notebook focuses on leveraging neural networks for predicting outcomes based on the dataset. It includes the following sections:
