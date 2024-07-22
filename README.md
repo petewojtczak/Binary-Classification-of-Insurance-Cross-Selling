@@ -26,5 +26,3 @@ Both notebooks provide different perspectives on tackling the competition proble
 Good luck, and thank you for visiting!
 
 Data source: https://www.kaggle.com/competitions/playground-series-s4e7/data
-<br>
-Neural Network and ML | Kaggle Playground Series - Season 4, Episode 7
